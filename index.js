@@ -1,24 +1,30 @@
-const inquirer = require('inquirer');
 const fs = require('fs');
+const inquirer = require('inquirer');
+const questionsL = require('./question');
+const questions = require('./question');
+//console.log("This Q: "+ questions);
 
-inquirer.prompt([
-    {
-      type: 'input',
-      name: 'name',
-      message: 'What is your name?',
-    },
-    {
-      type: 'checkbox',
-      message: 'What languages do you know?',
-      name: 'stack',
-      choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
-    },
-    {
-      type: 'list',
-      message: 'What is your preferred method of communication?',
-      name: 'contact',
-      choices: ['email', 'phone', 'telekinesis'],
-    },
-  ]).then((response) => {
-    
-  });
+inquirer.prompt(questions).then((response)=> {
+let readMeGen = `
+# ${response.title}
+### made by: ${response.name}
+
+## Description 
+
+${response.description}
+
+
+## How to use ${response.name}
+
+${response.howTo}
+
+## Screenshots
+
+`
+
+
+fs.appendFileSync('README.md', readMeGen);
+});
+
+
+
