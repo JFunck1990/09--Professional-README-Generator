@@ -27,42 +27,33 @@ const questionsL = [
         message: 'please input the usage for your application',
       },
       {
+          //Need to figure out what licenses to put in the array
         type: 'list',
-        name: 'insatll',
+        name: 'license',
         message: 'how to install the application?',
+        choices:["ISC", "MIT"]
       },
-      
-      /*{
+      {
         type: 'input',
-        name: 'GithubName',
+        name: 'contribution',
+        message: 'Do you have instructions for contributing?',
+      },
+      {
+        type: 'input',
+        name: 'test',
+        message: 'Do you have any test for useres to run?',
+      },
+      {
+        type: 'input',
+        name: 'eamil',
+        message: 'What is your eamil?',
+      },
+      {
+        type: 'input',
+        name: 'githubName',
         message: 'What is your Github user name?',
-       
-        
-      },
-      
-      {
-        type: 'input',
-        name: 'insatll',
-        message: 'how to install the application?',
-      },
-      
-      {
-        type: 'input',
-        name: 'howTo',
-        message: 'how to us the application?',
-      },
+       }
 
-      {
-        type: 'checkbox',
-        message: 'Add any Licence',
-        name: 'licence',
-        choices: ['MIT', 'Apache-2.0', 'ODBL-1.0', 'None']
-      },
-      {
-        type: "input",
-            name: "email",
-            message: "Please enter your email: "
-      }*/
     ];
 
 module.exports = questionsL;
