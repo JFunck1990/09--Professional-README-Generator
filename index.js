@@ -6,19 +6,38 @@ const questions = require('./question');
 
 inquirer.prompt(questions).then((response)=> {
 let readMeGen = `
-# ${response.title}
-### made by: ${response.name}
+# ${response.title}#### by: ${response.name}
+
+
+## Table of Contents
+ 
 
 ## Description 
 
 ${response.description}
 
 
-## How to use ${response.name}
+## How to install ${response.title}
 
 ${response.howTo}
 
-## Screenshots
+##  Usage
+
+
+
+##License
+
+
+
+##Contributing
+
+
+
+##Tests
+
+
+
+##Questions
 
 `
 
