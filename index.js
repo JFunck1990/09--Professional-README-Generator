@@ -10,13 +10,14 @@ let readMeGen = `
 ## Table of Content:
 
 1. [ Description. ](#desc)
+2. [How to install.](#install)
 
 <a name="desc"></a>
 ## Description 
 
 ${response.description}
 
-
+<a name="install"></a>
 ## How to install ${response.title}
 
 ${response.install}
@@ -29,7 +30,7 @@ ${response.usage}
 
 ![GitHub license](https://img.shields.io/badge/license-${response.license}-blue.svg)
 
-${response.license}
+
 
 ## Contributing
 
