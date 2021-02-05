@@ -26,5 +26,9 @@ Opern termanal and navigate to the aplication file, when you are in the file typ
 <a name="ss"></a>
 ## Screen shots
 
+<img src="img/screone.png">
+
+<img src="img/scretwo.png">
+
 
 
