@@ -20,6 +20,7 @@ Open termanal and navigate to the aplication file, when you are in the file type
 
 <a name="video"></a>
 ## Video
+> If you click GIF you will be navigated to YouTube.
 
 [![README Generator in use](https://j.gifs.com/D1Gjpn.gif)](https://youtu.be/paATVK2i0ho)
 
