@@ -6,8 +6,11 @@ const questions = require('./question');
 
 inquirer.prompt(questions).then((response)=> {
 let readMeGen = `
-# ${response.title}#### by: ${response.name}
-## Table of Content:
+# ${response.title}\n
+ by: ${response.name}
+
+ ![GitHub license](https://img.shields.io/badge/license-${response.license}-blue.svg)
+## Table of Contents:
 
 1. [ Description. ](#desc)
 2. [How to install.](#install)
@@ -54,7 +57,7 @@ ${response.test}
 
 <a name="questions"><a>
 ## Questions
-> Email:${response.emil}
+> Email:${response.email}\n
 > Github:${response.githubName}
 
 `

@@ -2,7 +2,11 @@
 
 
 
-# Profesional README Gen#### by: Jack Funck
+
+
+# README GEN
+
+ by: Jack Funck
 ## Table of Content:
 
 1. [ Description. ](#desc)
@@ -17,16 +21,16 @@
 <a name="desc"></a>
 ## Description 
 
-This is a description of this project
+lkaj;ldkf
 
 <a name="install"></a>
-## How to install Profesional README Gen
+## How to install README GEN
 
-undefined
+kasdj;flkj
 <a name="usage"></a>
 ##  Usage
 
-this is the usage
+asdjfkl
 <a name="license"></a>
 ## License
 
@@ -36,11 +40,11 @@ this is the usage
 <a name="con"></a>
 ## Contributing
 
-this is the instructions for contributing
+lskdjfgk
 <a name="tests"></a>
 ## Tests
 
-test test test
+laskdf;lkj
 
 
 
@@ -50,6 +54,7 @@ test test test
 
 <a name="questions"><a>
 ## Questions
-> Email:undefined
+> Email:jackfunck21@gmail.com
+
 > Github:JFunck1990
 

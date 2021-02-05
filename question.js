@@ -18,7 +18,7 @@ const questionsL = [
       },
       {
         type: 'input',
-        name: 'insatll',
+        name: 'install',
         message: 'how to install the application?',
       },
       {
@@ -45,7 +45,7 @@ const questionsL = [
       },
       {
         type: 'input',
-        name: 'eamil',
+        name: 'email',
         message: 'What is your eamil?',
       },
       {
