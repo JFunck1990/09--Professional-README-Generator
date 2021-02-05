@@ -16,12 +16,12 @@ When creating an open source project on GitHub, it is important to have a qualit
 <a name="instr"></a>
 ## Instructions
 
-Opern termanal and navigate to the aplication file, when you are in the file type in node index.js and you will be prompted questions related the project and your self to add to the README. After you answer all the questions a sampleREADME will be written.
+Open termanal and navigate to the aplication file, when you are in the file type in node index.js and you will be prompted questions related the project and your self to add to the README. After you answer all the questions a sampleREADME will be written.
 
 <a name="video"></a>
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/paATVK2i0ho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![README Generator in use](https://j.gifs.com/D1Gjpn.gif)](https://youtu.be/paATVK2i0ho)
 
 <a name="ss"></a>
 ## Screen shots
