@@ -1,5 +1,5 @@
 
-# README GENERATOR
+# README Generator
 
  by: Jack Funck
 
@@ -12,22 +12,21 @@
 4. [License.](#license)
 5. [Contributing.](#con)
 6. [Tests.](#tests)
-7. [Screen Shots.](#ss)
 8. [Questions.](#questions)
 
 <a name="desc"></a>
 ## Description 
 
-This is a README Generator
+this is a description of the app
 
 <a name="install"></a>
-## How to install README GENERATOR
+## How to install README Generator
 
-npm i inquirer
+this is how you install
 <a name="usage"></a>
 ##  Usage
 
-This is how you use the app
+this is how you use the app
 <a name="license"></a>
 ## License
 
@@ -37,7 +36,7 @@ This is how you use the app
 <a name="con"></a>
 ## Contributing
 
-This is the instructions for contributing
+this is instruction if you want to contribute
 <a name="tests"></a>
 ## Tests
 
@@ -45,8 +44,7 @@ test test test
 
 
 
-<a name="ss"></a>
-## Screen Shots
+
 
 
 <a name="questions"><a>

@@ -18,7 +18,6 @@ let readMeGen = `
 4. [License.](#license)
 5. [Contributing.](#con)
 6. [Tests.](#tests)
-7. [Screen Shots.](#ss)
 8. [Questions.](#questions)
 
 <a name="desc"></a>
@@ -51,8 +50,7 @@ ${response.test}
 
 
 
-<a name="ss"></a>
-## Screen Shots
+
 
 
 <a name="questions"><a>
