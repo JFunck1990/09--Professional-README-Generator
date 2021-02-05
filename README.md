@@ -21,6 +21,7 @@ Opern termanal and navigate to the aplication file, when you are in the file typ
 <a name="video"></a>
 ## Video
 
+<video src="https://drive.google.com/file/d/1C8fNnFx6TPHKgz7VgyDeMsJL5LF-omjn/view?usp=sharing">
 
 <a name="ss"></a>
 ## Screen shots

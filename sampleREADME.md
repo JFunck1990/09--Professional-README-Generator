@@ -1,13 +1,10 @@
 
-
-
-
-
-
-# README GEN
+# README GENERATOR
 
  by: Jack Funck
-## Table of Content:
+
+ ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+## Table of Contents:
 
 1. [ Description. ](#desc)
 2. [How to install.](#install)
@@ -21,16 +18,16 @@
 <a name="desc"></a>
 ## Description 
 
-lkaj;ldkf
+This is a README Generator
 
 <a name="install"></a>
-## How to install README GEN
+## How to install README GENERATOR
 
-kasdj;flkj
+npm i inquirer
 <a name="usage"></a>
 ##  Usage
 
-asdjfkl
+This is how you use the app
 <a name="license"></a>
 ## License
 
@@ -40,11 +37,11 @@ asdjfkl
 <a name="con"></a>
 ## Contributing
 
-lskdjfgk
+This is the instructions for contributing
 <a name="tests"></a>
 ## Tests
 
-laskdf;lkj
+test test test
 
 
 
@@ -54,7 +51,7 @@ laskdf;lkj
 
 <a name="questions"><a>
 ## Questions
-> Email:jackfunck21@gmail.com
+> Email: example@gmail.com
 
-> Github:JFunck1990
+> Github: JFunck1990
 

@@ -57,8 +57,8 @@ ${response.test}
 
 <a name="questions"><a>
 ## Questions
-> Email:${response.email}\n
-> Github:${response.githubName}
+> Email: ${response.email}\n
+> Github: ${response.githubName}
 
 `
 
